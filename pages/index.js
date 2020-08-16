@@ -14,6 +14,7 @@ export default () => (
           <a className="card">
             <h3>Getting Started &rarr;</h3>
             <p>Learn more about Next.js on official website</p>
+            <p>Testing</p>
           </a>
         </Link>
         <Link href="//github.com/create-next-app/create-next-app">
